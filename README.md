@@ -1,6 +1,8 @@
 # LatinBattle.com-Launcher
 Hola visitante !! te quiero ofrecer una herramienta para que puedas usar nuestra comunidad siempre que sea posible y lo mas rapido posible !!.
 
+DESCARGA: https://github.com/Azzlaer/LatinBattle.com-Launcher/tree/master
+
 Se trata de un LAUNCHER creado en VISUAL STUDIO "VB.NET" para ayudar y modificar nuestra computadora si asi usted el usuario quisiera.
 Esto solo modificara y arreglara algunos problemas con el juego que usted esta jugando como lo es WARCRAFT 3 que la mayoria de personas utiliza el juego de forma erronea y por eso se le generan muchos errores, algunos casos es porque estas usando el juego en una carpeta como "Descargas" o "Escritorio" y el juego requiere que la carpeta de Warcraft 3 este en "Program Files" o en una carpeta mas especifica "C:/Juegos/Warcraft III" y asi evitar los permisos de Windows al querer usarla.
 Todo esta explicado en las guias que se han creado con el tiempo a medida que las personas no sabian que hacer y consultandome como hacerlo y yo ayudandolos por ANYDESK o TEAM VIEWER.
